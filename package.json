@@ -1,0 +1,17 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "new": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.26",
+    "chalk": "^4.1.0",
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.3",
+    "typescript": "^3.9.7"
+  }
+}
